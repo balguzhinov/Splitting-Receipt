@@ -1,1 +1,1 @@
-# splitting-the-receipt
+# Splitting the receipt
